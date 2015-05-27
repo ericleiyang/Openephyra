@@ -1,0 +1,2 @@
+info.ephyra.answerselection.filters.HitPositionComparator
+info.ephyra.answerselection.filters.HitPositionSorterFilter
