@@ -44,7 +44,7 @@ public class BingKM extends KnowledgeMiner {
     /**
      * Bing Application ID.
      */
-    private static final String BING_APP_ID = "k3t9WPWHEmlYy4+3R9EJ0s0zoDOUkR+sxMHo1lB36cY";
+    private static final String BING_APP_ID = "Input your Bing app ID here";
     /**
      * Maximum total number of search results.
      */
