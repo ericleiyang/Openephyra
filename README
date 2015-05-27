@@ -1,26 +1,19 @@
-## How to use (Bing search API)
+## How to use (Bing search API by default)
 
 
-* Register at [Bing Search API](http://www.bing.com/dev/).
+* Register at Bing Search API: http://www.bing.com/dev/.
 
 * Sign in and get [Primary Account Key] in Account Information.
 
 * Replace BING_APP_ID in file BingKM.java
-	```java
 	
     private static final String BING_APP_ID = "Input your Bing app ID here";
 	
-	```
-
 
 * Replace BING_APP_ID in file BingSearch.java
-
-	```java
 	
     private static final String BING_APP_ID = "Input your Bing app ID here";
 	
-	```
-
 
 * Enjoy now!
 
